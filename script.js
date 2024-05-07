@@ -1,10 +1,10 @@
 const teamMembers = [
     {
-      name: 'Lionel Messi',
+      name: 'Shah Rukh Khan',
       img: MediaSession.jpg,
-      age: 36,
+      age: 58,
       activelyPlaying: true,
-      position: 'Forward',
+      position: 'Captain, Batter',
       skills: ['Dribbling', 'Shooting', 'Passing'],
       strengths: 'Ball control',
       weaknesses: 'Heading Ability',
@@ -19,7 +19,16 @@ const teamMembers = [
       weaknesses: 'Heading Ability',
       biography:
         'Lionel Messi is considered one of the greatest football players of all time...'
-    }
+    },
+    {
+        name: 'Lionel Messi Jr.',
+        position: 'Defender',
+        skills: ['Dribbling', 'Shooting', 'Passing'],
+        strengths: 'Ball control',
+        weaknesses: 'Heading Ability',
+        biography:
+          'Lionel Messi is considered one of the greatest football players of all time...'
+      }
   ]
   
   function generateTeamCards() {
