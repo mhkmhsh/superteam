@@ -1,13 +1,13 @@
 const teamMembers = [
     {
       name: 'Shah Rukh Khan',
-      img: MediaSession.jpg,
-      position: 'Captain, Batter',
-      skills: ['Dribbling', 'Shooting', 'Passing'],
-      strengths: 'Ball control',
-      weaknesses: 'Heading Ability',
-      movie:
-        'Lionel Messi is considered one of the greatest football players of all time...'
+      img: placeholder.jpg,
+      position: '...',
+      skills: ['...' , ' ...' , ' ...'],
+      strengths: '...',
+      weaknesses: '...',
+      biography:
+        '...'
     },
    
   ]
@@ -49,6 +49,8 @@ const teamMembers = [
                   <div class = "card-header"> ${member.name}</div>
                   <div class = "card-body">
                       <p><strong>Position:</strong> ${member.position}</p>
+                      <p><strong>skills:</strong> ${member.skills}</p>
+                      <p><strong>Best Movie:</strong> ${member.bestMovie}</p>
                       <p><strong>Skills:</strong> 
                           <ul>
                               ${skillsList}
@@ -57,6 +59,7 @@ const teamMembers = [
                       <p><strong>Strengths:</strong> ${member.strengths}</p>
                       <p><strong>Weaknesses:</strong> ${member.weaknesses}</p>
                       <p><strong>Biography:</strong> ${member.biography}</p>
+                      <p><strong>Image:</strong> ${member.img}</p>
                   </div>
               </div>
           `
