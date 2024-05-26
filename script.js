@@ -7,7 +7,7 @@ const teamMembers = [
     weaknesses: 'Selectivity, Public image',
     biography: 'Shah Rukh Khan is an Indian actor, film producer, and television personality who works in Hindi films.',
     bestMovie: 'Dilwale Dulhania Le Jayenge',
-    img: 'image/placeholder.jpg'
+    img: 'image/shah.PNG'
   },
   {
     name: 'Hrithik Roshan',
@@ -17,7 +17,7 @@ const teamMembers = [
     weaknesses: 'Typecasting, Public perception',
     biography: 'Hrithik Roshan is an Indian actor known for his dancing skills and performance in Hindi films.',
     bestMovie: 'Koi Mil Gaya',
-    img: 'image/placeholder.jpg'
+    img: 'image/hritick.PNG'
   },
   {
     name: 'Siddharth Malhotra',
@@ -27,7 +27,7 @@ const teamMembers = [
     weaknesses: 'Limited filmography',
     biography: 'Siddharth Malhotra is an Indian actor and former model who appears in Hindi films.',
     bestMovie: 'Student of the Year',
-    img: 'image/placeholder.jpg'
+    img: 'image/sid.PNG'
   },
   {
     name: 'Varun Dhawan',
@@ -37,7 +37,7 @@ const teamMembers = [
     weaknesses: 'Typecasting',
     biography: 'Varun Dhawan is an Indian actor known for his roles in Hindi films and his energetic performances.',
     bestMovie: 'Badlapur',
-    img: 'image/placeholder.jpg'
+    img: 'image/varun.PNG'
   },
   {
     name: 'Rajkumar Rao',
@@ -47,7 +47,7 @@ const teamMembers = [
     weaknesses: 'Limited mainstream appeal',
     biography: 'Rajkumar Rao is an Indian actor known for his work in Hindi films and his versatility as an actor.',
     bestMovie: 'Newton',
-    img: 'image/placeholder.jpg'
+    img: 'image/raj.PNG'
   },
   {
     name: 'Farhan Akhtar',
@@ -57,7 +57,7 @@ const teamMembers = [
     weaknesses: 'Balancing multiple roles',
     biography: 'Farhan Akhtar is an Indian actor, director, and singer known for his work in Hindi films.',
     bestMovie: 'Bhaag Milkha Bhaag',
-    img: 'image/placeholder.jpg'
+    img: 'image/farhan.PNG'
   },
   {
     name: 'Aditya Roy Kapoor',
@@ -67,7 +67,7 @@ const teamMembers = [
     weaknesses: 'Limited filmography',
     biography: 'Aditya Roy Kapoor is an Indian actor known for his roles in Hindi films and his musical talent.',
     bestMovie: 'Aashiqui 2',
-    img: 'image/placeholder.jpg'
+    img: 'image/aditya.PNG'
   },
   {
     name: 'Ranveer Singh',
@@ -77,7 +77,7 @@ const teamMembers = [
     weaknesses: 'Over-the-top performances',
     biography: 'Ranveer Singh is an Indian actor known for his energetic and versatile performances in Hindi films.',
     bestMovie: 'Padmaavat',
-    img: 'image/placeholder.jpg'
+    img: 'image/ranveer.PNG'
   },
   {
     name: 'Ayushmann Khurrana',
@@ -87,7 +87,7 @@ const teamMembers = [
     weaknesses: 'Limited mainstream appeal',
     biography: 'Ayushmann Khurrana is an Indian actor known for his unconventional roles in Hindi films.',
     bestMovie: 'Andhadhun',
-    img: 'image/placeholder.jpg'
+    img: 'image/ayush.PNG'
   },
   {
     name: 'Riteish Deshmukh',
@@ -97,7 +97,7 @@ const teamMembers = [
     weaknesses: 'Typecasting',
     biography: 'Riteish Deshmukh is an Indian actor known for his comedic roles in Hindi films.',
     bestMovie: 'Housefull',
-    img: 'image/placeholder.jpg'
+    img: 'image/ritesh.PNG'
   },
   {
     name: 'Shahid Kapoor',
@@ -107,7 +107,7 @@ const teamMembers = [
     weaknesses: 'Inconsistent film choices',
     biography: 'Shahid Kapoor is an Indian actor known for his versatile roles and dancing skills in Hindi films.',
     bestMovie: 'Kabir Singh',
-    img: 'image/placeholder.jpg'
+    img: 'image/shahid.PNG'
   }
 ];
 
