@@ -20,7 +20,7 @@ const teamMembers = [
     img: 'image/hritick.PNG'
   },
   {
-    name: 'Siddharth Malhotra',
+    name: 'Siddharth Malhotra &#11088 ( Captain) ',
     position: 'Batsman',
     skills: ['Acting', 'Modeling'],
     strengths: 'Looks, Versatility',
